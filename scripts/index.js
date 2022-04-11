@@ -53,7 +53,7 @@ switch (sport) {
     break;
 
   default:
-    city = `Круто, успехов в таком деле, как ${city}`;
+    sport = `Круто, успехов в таком спорте, как ${sport}`;
 }
 
 alert(`${yearOfBirth} \n ${city} \n ${sport}`);
